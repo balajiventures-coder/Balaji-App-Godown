@@ -2,7 +2,7 @@
     "name": "Godown Manager",
     "short_name": "Godown",
     "description": "Bakery godown management for owner",
-    "start_url": "/Balaji-Apps-Godown/",
+    "start_url": "/Balaji-App-Godown/",
     "display": "standalone",
     "orientation": "any",
     "background_color": "#5D4037",
